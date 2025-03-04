@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "team": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "February 28, 2025, 7 p.m. MT"
+    },
+    {
+      "team": "Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "March 1, 2025, 12 p.m. MT"
+    },
+    {
+      "team": "Women's Lacrosse",
+      "opponent": "Maryland",
+      "date": "March 1, 2025, 10 a.m. MT"
+    },
+    {
+      "team": "Men's Basketball",
+      "opponent": "South Dakota State",
+      "date": "March 1, 2025, 1 p.m. MT"
+    },
+    {
+      "team": "Women's Tennis",
+      "opponent": "Kansas City",
+      "date": "March 1, 2025, 1:30 p.m. MT"
+    },
+    {
+      "team": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "March 1, 2025, 6 p.m. MT"
+    },
+    {
+      "team": "Women's Tennis",
+      "opponent": "Omaha",
+      "date": "March 2, 2025, 10 a.m. MT"
+    },
+    {
+      "team": "Men's Tennis",
+      "opponent": "Utah",
+      "date": "March 2, 2025, 12 p.m. MT"
+    },
+    {
+      "team": "Men's Lacrosse",
+      "opponent": "Quinnipiac",
+      "date": "March 2, 2025, 12 p.m. MT"
+    },
+    {
+      "team": "Men's Soccer",
+      "opponent": "Colorado Rapids II",
+      "date": "March 2, 2025, 1 p.m. MT"
+    },
+    {
+      "team": "Women's Golf",
+      "opponent": "Round 1/2",
+      "date": "March 3, 2025"
+    },
+    {
+      "team": "Women's Golf",
+      "opponent": "Round 3",
+      "date": "March 4, 2025"
+    },
+    {
+      "team": "Skiing",
+      "opponent": "Giant Slalom",
+      "date": "March 5, 2025"
+    },
+    {
+      "team": "Women's Lacrosse",
+      "opponent": "Michigan",
+      "date": "March 5, 2025, 12 p.m. MT"
+    },
+    {
+      "team": "Women's Basketball",
+      "opponent": "Omaha",
+      "date": "March 5, 2025, 3:30 p.m. MT"
+    },
+    {
+      "team": "Skiing",
+      "opponent": "7.5K Classic",
+      "date": "March 6, 2025"
+    },
+    {
+      "team": "Women's Basketball",
+      "opponent": "South Dakota State",
+      "date": "March 6, 2025, 1:30 p.m. MT"
+    },
+    {
+      "team": "Men's Basketball",
+      "opponent": "St. Thomas",
+      "date": "March 6, 2025, 7:30 p.m. MT"
+    },
+    {
+      "team": "Skiing",
+      "opponent": "Slalom",
+      "date": "March 7, 2025"
+    },
+    {
+      "team": "Men's Ice Hockey",
+      "opponent": "Colorado College",
+      "date": "March 7, 2025, 7 p.m. MT"
+    }
+  ]
+}
